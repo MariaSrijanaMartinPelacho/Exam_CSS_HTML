@@ -15,8 +15,8 @@ a{
 }
 .imagenes img{
     margin-right: 60px;
-    width:90px;
-    height:100px;    
+    width: 50px;
+    height: 50px;  
     border-radius: 30px;
 }
 .encabezada h1{
