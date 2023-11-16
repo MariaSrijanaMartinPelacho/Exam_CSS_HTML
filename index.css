@@ -1,0 +1,44 @@
+title{
+    color: black;
+}
+
+.menu{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(255, 255, 255));
+    list-style: none;   
+}
+a{
+    padding-left: 10px;
+}
+.imagenes img{
+    margin-right: 60px;
+    width:90px;
+    height:100px;
+}
+.encabezada h1{
+    color: white;
+    text-align: center;
+}
+.encabezada{
+    background-image: url(imagenes/fondo.png);
+    padding: 200px;
+}
+
+.sobre{
+    text-align: center;
+    background-color: rgba(97, 94, 92, 0.422);
+    width: 100%;
+    padding: 10px;
+    font-size: 50px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
